@@ -7,7 +7,7 @@
 
 Keen knowledge in DevOps practices, tailoring systems requirements to suit the needs of ever evolving applications.
 
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/DevOps-anatomy.jpg" width="600px">
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/DevOps-anatomy.jpg" width="400px">
 
 ### Tools
 <img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-linux.gif" width="22px"> <samp>Linux</samp>
