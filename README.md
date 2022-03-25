@@ -8,10 +8,10 @@
 Keen knowledge in DevOps practices, tailoring systems requirements to suit the needs of ever evolving applications.
 
 ### Tools
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-linux.gif" width="22px">
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-amazon-web-services-48.png" width="22px">
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-docker-48.png" width="22px">
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-kubernetes-48.png" width="22px">
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-terraform-48.png" width="22px">
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-ansible-48.png" width="22px">
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-prometheus-48.png" width="22px">
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-linux.gif" width="22px">   Linux
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-amazon-web-services-48.png" width="22px">    Amazon Web Services
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-docker-48.png" width="22px">   Docker
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-kubernetes-48.png" width="22px">   Kubernetes
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-terraform-48.png" width="22px">    Terraform
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-ansible-48.png" width="22px">    Ansible
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-prometheus-48.png" width="22px">   Prometheus
