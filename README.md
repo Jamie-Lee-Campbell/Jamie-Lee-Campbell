@@ -1,11 +1,11 @@
 # <samp>Jamie-Lee Campbell</samp> <img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/mario_hello_big.gif" width="30">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200"> ## <samp>Hello World!</samp> <img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/earth.gif" width="22">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/jamie-lee-campbell-8b1269235/)](https://www.linkedin.com/in/jamie-lee-campbell-8b1269235/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/jay_leec/)](https://www.instagram.com/jay_leec/)
 
-## <samp>Hello World!</samp> <img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/earth.gif" width="22">
+
 
 Keen knowledge in DevOps practices, tailoring systems requirements to suit the needs of ever evolving applications.
 
