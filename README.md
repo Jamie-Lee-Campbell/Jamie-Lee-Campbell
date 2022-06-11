@@ -7,9 +7,9 @@
 
 
 
-Keen knowledge in DevOps practices, tailoring systems requirements to suit the needs of ever evolving applications.
+## Keen knowledge in DevOps 
 
-<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/DevOps-anatomy.jpg" width="400">
+<img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/DevOps-anatomy.jpg" width="350">
 
 
 ### Tools
