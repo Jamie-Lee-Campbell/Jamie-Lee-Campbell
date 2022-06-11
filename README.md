@@ -9,6 +9,8 @@ Keen knowledge in DevOps practices, tailoring systems requirements to suit the n
 
 <img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/DevOps-anatomy.jpg" width="400">
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
+
 ### Tools
 <img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-linux.gif" width="22"> <samp>Linux</samp>
 <img src="https://github.com/Jamie-Lee-Campbell/Jamie-Lee-Campbell/blob/main/assets/icons8-amazon-web-services-48.png" width="22"> <samp>Amazon Web Services</samp>
